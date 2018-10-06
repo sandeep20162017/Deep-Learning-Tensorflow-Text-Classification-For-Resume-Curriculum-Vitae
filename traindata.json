@@ -1,0 +1,14 @@
+{
+	"Education": ["Bachelor", "Master", "PhD", "High School", "College", "BSc", "B.Sc.", "MSc", "M.Sc.", "BA","Associate Degree", "Associate of Arts (A.A.)", "Associate of Science (A.S.)", "Bachelor's (or Baccalaureate) Degree","college program","Graduate Degree","Professional Degree","Joint Degrees","Liberal Arts and Career Combination","Teacher Certification","BA Hons","BFA","BJourn", "BSA", "BA","BEng","BHA","BTech","BArchSc","BComm"],
+	"Email": ["sandeepkanao@gmail.com", "sandeep.kanao@abc.com", "abc123@mnc.net","nick@gmail.com","vic@gmail.com","prince@yahoo.in","BillGates@gmail.com","SteveJobs@yahoo.com","BillJobs@aol.com","first.lastnumber@school.edu","john.smith01@harvard.edu","firstinitiallastnamerandomnumber@school.edu","jsmith1234@harvard.edu","noreply@labs.princeton.edu","whoever@harvard.edu","texasstars@yahoo.com","Fredblogs@thisdomain.com","Fredblogs@thisdomain.com"],
+	"Phone": ["1-416-3040208", "416-355 0208", "416 1220206", "41689700206", "304 123 4455", "1 123 456 5567","919371424876","+1 678 3390204", "15674456783", "567-980-3445", "890 342 3342", "011 1 989 678 4567", "900 789 8906", "18009009809"],
+	"Skill": ["Python", "c++", "Java", "Angular", ".net"],
+	"Name": ["Sandeep.Kanao", "George M Very", "Jenefer Atkinson", "Kevin Spacy", "George Ing", "Tim Jonson", "Mery Wong", "Kim Lee", "Vikas Vats" ],
+        "Address": ["17 street name", "#1204-191 College St.", "Apt 1290", "123 Main Parkway Vancouver BC", "Apartment 123", "Suit 456", "#456 890 King Street", "89 Queen St.", "8900 Cres", "Road", "Street", "St.", "Apt", "Apartment", "Suit"],
+        "StudiedAt": ["University of British Columbia", "University of", "Seneca College", "Famous College", "University", "College", "High School", "School"],
+	"WorkedAt": ["123 TECH", "BC Development", "Tech Works", "TD Canada", "Bank Of Montreal"],
+	"Title" : ["Software Developer", "Programmer", "Architect", "Analyst", "Scientist", "Manager"]
+}
+
+
+
